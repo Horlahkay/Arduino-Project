@@ -32,7 +32,7 @@ void loop ()
   
 }
 
-// Arduino Code to check the low level and high level value of your servo
+// Arduino Code to check the low level and high level value of a servo
 
 #include <Servo.h>
 int ServoPin = 3;
